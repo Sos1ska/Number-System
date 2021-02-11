@@ -16,7 +16,7 @@ Default = '\033[99m'
 Underline = '\033[4m'
 end       = '\033[0m'
 
-print(f"{Red}{Underline}Sos1ska-Breaking 1.0{end}")
+print(f"{Red}\t\t{Underline}Sos1ska-Breaking 1.0{end}")
 
 os.system("toilet -f big ' Sos1ska-Hackers' -F gay | lolcat")
 
