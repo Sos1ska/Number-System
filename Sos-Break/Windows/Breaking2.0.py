@@ -31,7 +31,7 @@ print(f"C"),time.sleep(1),print(f" O"),time.sleep(1),print(f"  O"),time.sleep(1)
 print(f"\t\t\t{Red}{Underline}Sos-Breaking-Number 2.0{end}")
 print()
 print(f"\tДанный установщик появиться только при запуске утилиты")
-print(f"\tДанный код написан для базы Android")
+print(f"\tДанный код написан для базы Windows")
 print()
 
 # Код писали https://vk.com/covidone
